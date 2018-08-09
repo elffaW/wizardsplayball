@@ -1,2 +1,0 @@
-# wizardsplayball
-fantasy baseball visualizations
